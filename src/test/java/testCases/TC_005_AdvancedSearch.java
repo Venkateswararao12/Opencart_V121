@@ -1,4 +1,4 @@
-This is advanced search
+package testCases;
 
 public class TC_005_AdvancedSearch
 {
